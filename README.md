@@ -34,10 +34,36 @@ It’s a **Knowledge Management System**.
 ## 🙋 Potential Interview/Boss Questions (Ready-to-Answer)
 
 **Q: "Why spend time on research instead of just coding?"**
+
 - **A:** *"Coding without research is how you build legacy systems. Research ensures we are building 'Agentic-Native' systems that will still be relevant two years from now. It's an investment in architectural stability."*
 
 **Q: "How do you choose what to research?"**
+
 - **A:** *"I focus on the intersection of 'Autonomous Agency' and 'Business Scalability.' I look for tools that can either remove a human bottleneck or open a new revenue stream for the company."*
+
+---
+
+## ⚙️ Implementation Guide (Step-by-Step)
+
+### **1. Access Research**
+
+1. Clone the repository.
+2. Navigate to `/research`.
+3. Open the `.md` files in any Markdown reader (like **Obsidian** or VS Code).
+
+### **2. Contribute**
+
+1. Study a new AI paper.
+2. Use the template in `/research/template.md`.
+3. Submit a Pull Request with your summary.
+
+---
+
+## 🎬 Demonstration Guide (How to see it in Action)
+
+1. **Read Summary**: Open `research/mcp-protocol-v1.md`.
+2. **Observation**: You will see a structured analysis of the MCP protocol, its security implications, and its use cases.
+3. **Cross-Reference**: Note how the findings in this file were directly used to architect the `system-intel` server in the **Autonomous-Automation-Suite** repo.
 
 ---
 
